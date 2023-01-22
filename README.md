@@ -12,7 +12,7 @@ Todo el código que se comparte cuenta con:
 ## Motivación
 
 Los recusos de código abierto en inglés sobre este tipo de materias es abundante. No obstante, los recursos en español se reducen (en su mayoría) a libros
-de texto y a código escrito [MATLAB](https://en.wikipedia.org/wiki/MATLAB) (En gran parte, con semánticas y librerías obsoletas). Es por eso que decidí liberar estos trabajos de mi autoría
+de texto y a código escrito en [MATLAB](https://en.wikipedia.org/wiki/MATLAB) (En gran parte, con semánticas y librerías obsoletas). Es por eso que decidí liberar estos trabajos de mi autoría
 escritos en un lenguaje de programación con mayor aplicabilidad y facilidad de entendimiento (Python), para que se pueda usar como recurso de aprendizaje,
 tanto para estudiantes como profesores.
 
